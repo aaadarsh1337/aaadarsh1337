@@ -15,7 +15,7 @@ Cybersecurity student with special love for CTFs, web exploitation, pwn and reve
 - [security-automation-toolkit](https://github.com/aaadarsh1337/security-automation-toolkit)
 
 ## Currently
-- Building a honeypot lab
+- Building a honeypot
 - Learning assembly and RE
 - Participating in CTFs
 - Having fun :)

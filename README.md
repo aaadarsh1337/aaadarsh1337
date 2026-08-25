@@ -1,16 +1,19 @@
-## Hi there 👋
+# Adarsh Pillai
 
-<!--
-**aaadarsh1337/aaadarsh1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student — CTFs, web exploitation, pwn, tooling.
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://aaadarsh1337.github.io/
+📝 Writeups:  https://aaadarsh1337.github.io/writeups/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Offensive security (CTFs, labs, vulnerability research)
+- Automated tools that make life easy
+- Notes on various subsets of cybersecurity
+
+## Featured Repos
+- https://github.com/aaadarsh1337/ctf-writeups
+- https://github.com/aaadarsh1337/security-automation-toolkit
+
+## Currently
+- Building a honeypot lab
+- Learning assembly and RE

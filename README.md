@@ -1,8 +1,9 @@
 # Adarsh Pillai
--------------------------
+
 Cybersecurity student with special love for CTFs, web exploitation, pwn and reverse engineering.
 
 **🌐 Portfolio**: <https://aaadarsh1337.github.io/>
+-------------------------
 **📝 Writeups**:  <https://aaadarsh1337.github.io/writeups/>
 
 ## Focus

@@ -2,8 +2,7 @@
 
 Cybersecurity student with special love for CTFs, web exploitation, pwn and reverse engineering.
 
-**🌐 Portfolio**: <https://aaadarsh1337.github.io/>
--------------------------
+**🌐 Portfolio**: <https://aaadarsh1337.github.io/> \n
 **📝 Writeups**:  <https://aaadarsh1337.github.io/writeups/>
 
 ## Focus

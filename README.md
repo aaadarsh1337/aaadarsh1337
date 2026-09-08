@@ -85,8 +85,8 @@ Aggregates only; raw logs never leave the sensor.
 [![X](https://img.shields.io/badge/X-@aaadarsh1337-000000?style=for-the-badge&logo=x)](https://x.com/aaadarsh1337)
 [![Email](https://img.shields.io/badge/Email-adarshpillai1337@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshpillai1337@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-aaadarsh1337-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aaadarsh1337)
-[![CTFtime](https://img.shields.io/badge/CTFtime-265799-7DCFFF?style=for-the-badge&logo=flag&logoColor=16161E)](https://ctftime.org/user/265799)
-[![pwn.college](https://img.shields.io/badge/pwn.college-hacker-9ECE6A?style=for-the-badge&logo=terminal&logoColor=16161E)](https://pwn.college/hacker/192643)
+[![CTFtime](https://img.shields.io/badge/CTFtime-aaadarsh1337-7DCFFF?style=for-the-badge&logo=flag&logoColor=16161E)](https://ctftime.org/user/265799)
+[![pwn.college](https://img.shields.io/badge/pwn.college-aaadarsh1337-9ECE6A?style=for-the-badge&logo=terminal&logoColor=16161E)](https://pwn.college/hacker/192643)
 
 *Cybersecurity student — parts of my sites and tooling were built with AI
 assistance so I could ship fast. Content, writeups, methodology, and

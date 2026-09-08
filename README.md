@@ -57,7 +57,7 @@
 
 ---
 
-## 🚩 Flagship — [Threat Harbour](https://github.com/aaadarsh1337/threat-harbour)
+## 🚩 Flagship Project— [Threat Ha rbour](https://github.com/aaadarsh1337/threat-harbour)
 
 > What credentials are attackers trying *right now*? Ask this box.
 
@@ -70,7 +70,6 @@ Aggregates only; raw logs never leave the sensor.
 ![ips](https://img.shields.io/badge/unique_IPs-2.1K-BB9AF7?style=flat-square)
 ![sessions](https://img.shields.io/badge/sessions-28.5K-9ECE6A?style=flat-square)
 ![refresh](https://img.shields.io/badge/refresh-daily-F7768E?style=flat-square)
-[![stars](https://img.shields.io/github/stars/aaadarsh1337/threat-harbour?style=flat-square)](https://github.com/aaadarsh1337/threat-harbour)
 
 📄 [Full tables](https://github.com/aaadarsh1337/threat-harbour/blob/main/analysis/summary.md) ·
 🤖 [Machine-readable feed](https://raw.githubusercontent.com/aaadarsh1337/threat-harbour/main/analysis/metrics.json) ·

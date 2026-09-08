@@ -51,11 +51,10 @@
 | [TFC CTF 2026](https://github.com/aaadarsh1337/cybersecurity-achievements/tree/main/TFCCTF) | 404squad | #23 Human · #172 Overall |
 | [z0d1ak CTF 2026](https://github.com/aaadarsh1337/cybersecurity-achievements/tree/main/z0d1ak-ctf) | 404squad | #13 Human · #75 Overall |
 | [TryHackMe](https://tryhackme.com/p/aaadarsh1337) | — | Top 2% global · 100+ rooms |
-⠀
-⠀
+
+
 📝 **Writeups** — [pwnable.kr, TryHackMe, picoCTF, HackerHolidays](https://aaadarsh1337.github.io/writeups/): every step, every command and its output.
 ⠀
-
 ---
 
 ## 🚩 Flagship — [Threat Harbour](https://github.com/aaadarsh1337/threat-harbour)

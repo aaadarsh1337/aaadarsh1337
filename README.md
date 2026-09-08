@@ -4,9 +4,9 @@
 
 # Adarsh Pillai
 
-### ` aaadarsh1337 ` · ` jackthereaper1337 ` · ` Hasher2009 `
+### `⠀aaadarsh1337⠀` · `⠀jackthereaper1337⠀` · `⠀Hasher2009⠀`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7DCFFF&center=true&vCenter=true&width=620&lines=Offensive+security+%C2%B7+Reverse+engineering+%C2%B7+CTF;Web+exploitation+%C2%B7+Pwn+%C2%B7+Binary+exploitation;I+break+things+to+learn+how+they+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7DCFFF&center=true&vCenter=true&width=620&lines=Offensive+security+%C2%B7+Reverse+engineering+%C2%B7+CTF;I+break+things+to+learn+how+they+work)](https://git.io/typing-svg)
 
 **Everything worth keeping goes into writeups, notes, or working code.**
 
@@ -51,8 +51,10 @@
 | [TFC CTF 2026](https://github.com/aaadarsh1337/cybersecurity-achievements/tree/main/TFCCTF) | 404squad | #23 Human · #172 Overall |
 | [z0d1ak CTF 2026](https://github.com/aaadarsh1337/cybersecurity-achievements/tree/main/z0d1ak-ctf) | 404squad | #13 Human · #75 Overall |
 | [TryHackMe](https://tryhackme.com/p/aaadarsh1337) | — | Top 2% global · 100+ rooms |
-
+⠀
+⠀
 📝 **Writeups** — [pwnable.kr, TryHackMe, picoCTF, HackerHolidays](https://aaadarsh1337.github.io/writeups/): every step, every command and its output.
+⠀
 
 ---
 
@@ -81,16 +83,12 @@ Aggregates only; raw logs never leave the sensor.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@aaadarsh1337-181717?style=for-the-badge&logo=github)](https://github.com/aaadarsh1337)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh_Pillai-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aaadarsh1337)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-aaadarsh1337-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aaadarsh1337)
-[![CTFtime](https://img.shields.io/badge/CTFtime-265799-7DCFFF?style=for-the-badge&logo=flag&logoColor=16161E)](https://ctftime.org/user/265799)
+[![Discord](https://img.shields.io/badge/Discord-Hit_Me_Up-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/15248404499301847090)
 [![X](https://img.shields.io/badge/X-@aaadarsh1337-000000?style=for-the-badge&logo=x)](https://x.com/aaadarsh1337)
 [![Email](https://img.shields.io/badge/Email-adarshpillai1337@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshpillai1337@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Hit_Me_Up-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/15248404499301847090)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-aaadarsh1337-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aaadarsh1337)
+[![CTFtime](https://img.shields.io/badge/CTFtime-265799-7DCFFF?style=for-the-badge&logo=flag&logoColor=16161E)](https://ctftime.org/user/265799)
 [![pwn.college](https://img.shields.io/badge/pwn.college-hacker-9ECE6A?style=for-the-badge&logo=terminal&logoColor=16161E)](https://pwn.college/hacker/192643)
-
-![Views](https://komarev.com/ghpvc/?username=aaadarsh1337&color=7DCFFF&style=flat-square&label=profile+views)
 
 *Cybersecurity student — parts of my sites and tooling were built with AI
 assistance so I could ship fast. Content, writeups, methodology, and

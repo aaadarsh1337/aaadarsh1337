@@ -57,9 +57,7 @@
 
 ---
 
-## 🚩 Flagship Project— [Threat Ha rbour](https://github.com/aaadarsh1337/threat-harbour)
-
-> What credentials are attackers trying *right now*? Ask this box.
+## 🚩 Flagship Project— [Threat Harbour](https://github.com/aaadarsh1337/threat-harbour)
 
 Live **Cowrie SSH honeypot** on Oracle Cloud Free Tier with a **daily
 threat-intel leaderboard** — real attacker usernames, passwords, and

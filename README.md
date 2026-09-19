@@ -90,6 +90,6 @@ Aggregates only; raw logs never leave the sensor.
 assistance so I could ship fast. Content, writeups, methodology, and
 sensor work are my own.*
 
-**`pwn for life`** ⚔️
+**`secrets die here`** ⚔️
 
 </div>

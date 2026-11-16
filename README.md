@@ -8,7 +8,7 @@
 
 <sub><i>That's tonight's moon, redrawn every day.</i></sub>
 
-Reverse engineer at [`Heap0verflow`](https://www.linkedin.com/company/heap0verflow) · CTF player for [`H3ap`](https://ctftime.org/team/444694)<br>
+Reverse engineer with [`Heap0verflow`](https://aaadarsh1337.github.io/heap0verflow/), an independent security group · CTF player for [`H3ap`](https://ctftime.org/team/444694)<br>
 Everything worth keeping goes into writeups, notes, or working code.
 
 <br>
